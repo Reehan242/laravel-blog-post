@@ -29,6 +29,7 @@ Blog Post adalah sebuah web sederhana yang dibuat menggunakan **Laravel**, yang 
 - Pastikan sudah menginstal composer 
 - Download projek ini sebagai zip
 - Ekstrak file projek
+- Di folder projek, buka terminal dan jalankan perintah 'composer install'
 - Ubah nama file .env.example menjadi .env
 - Pada .env, ubah settingan nya sesuai dengan apa yang akan digunakan (seperti db_name, username, host, password dsb.)
 - Jika sudah, projek sudah dapat dijalankan dengan mengetikan artisan command "php artisan serve".
